@@ -9,6 +9,7 @@ class ListNode {
 
     ListNode(int _val) {
         val = _val;
+        next = null;
     }
 }
 
